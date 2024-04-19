@@ -17,10 +17,10 @@ metadata:
   version: 2.1.0
 projects:
   - name: django-example
-    clonePath: mysite
+    clonePath: mysite/
     git:
       remotes:
-        origin: https://github.com/devfile-samples/python-django-ex
+        origin: https://github.com/thepetk/python-django-ex
 components:
   - name: py-web
     container:
