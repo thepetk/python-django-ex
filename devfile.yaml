@@ -16,7 +16,7 @@ metadata:
   provider: Red Hat
   version: 2.1.0
 projects:
-  - name: django-example
+  - name: python-django-ex
     clonePath: mysite/
     git:
       remotes:
