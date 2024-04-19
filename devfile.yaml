@@ -15,9 +15,9 @@ metadata:
   language: Python
   provider: Red Hat
   version: 2.1.0
-projects:
-  - name: python-django-ex
-    clonePath: mysite/
+starterProjects:
+  - name: python-django
+    subDir: mysite/
     git:
       remotes:
         origin: https://github.com/thepetk/python-django-ex
